@@ -21,7 +21,7 @@
   <br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=jbozarov&show_icons=true&line_height=45&include_all_commits=true" />  
-  <img src="https://github.com/jbozarov/jbozarov/blob/main/me.jpg =250x"  />
+  <img src="https://github.com/jbozarov/jbozarov/blob/main/me.jpg" width="200" height="200" />
   <br>
   <br>
   <br>
