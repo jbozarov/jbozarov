@@ -20,8 +20,7 @@
  <br>
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=jbozarov&show_icons=true&line_height=45&include_all_commits=true" />  <img src="https://github.com/jbozarov/jbozarov/blob/main/me.jpg" width="200" height="200" />
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=jbozarov&show_icons=true&line_height=45&include_all_commits=true" />
   <br>
   <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jbozarov" alt="visitor badge"/>
