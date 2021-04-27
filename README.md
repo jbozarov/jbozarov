@@ -36,7 +36,7 @@
 <img align="left" alt="AWS" width="26px" src="https://github.com/jbozarov/jbozarov/blob/main/icons/aws.jpg" />
 <img align="left" alt="React" width="26px" src="https://github.com/jbozarov/jbozarov/blob/main/icons/react-original-wordmark.svg"/>
 <img align="left" alt="Rest API" width="26px" src="https://github.com/jbozarov/jbozarov/blob/main/icons/rest-api.png" />
-
+<img align="left" alt="Azure" width="26px" src="https://github.com/jbozarov/jbozarov/blob/main/icons/azure.png" />
 <img align="left" alt="Node.js" width="26px" src="https://github.com/jbozarov/jbozarov/blob/main/icons/nodejs-2.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -52,7 +52,7 @@
 
 <br />
 <br />
----
+
 
 <details>
   <summary>:zap: Most Used Languages</summary>
