@@ -32,13 +32,12 @@
 <img align="left" alt="JAVA" width="26px" src="https://github.com/jbozarov/jbozarov/blob/main/icons/java-original-wordmark.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" alt="Spring Boot" width="26px" src="https://github.com/jbozarov/jbozarov/blob/main/icons/spring-original-wordmark.svg" />
-<img align="left" alt="Spring Boot" width="26px" src="https://github.com/jbozarov/jbozarov/blob/main/icons/spring-boot.png" />
-<img align="left" alt="Maven" width="26px" src="https://github.com/jbozarov/jbozarov/blob/main/icons/apache_maven.png"/>
+<img align="left" alt="Maven" width="30px" src="https://github.com/jbozarov/jbozarov/blob/main/icons/apache_maven.png"/>
 <img align="left" alt="AWS" width="26px" src="https://github.com/jbozarov/jbozarov/blob/main/icons/aws.jpg" />
 <img align="left" alt="React" width="26px" src="https://github.com/jbozarov/jbozarov/blob/main/icons/react-original-wordmark.svg"/>
 <img align="left" alt="Rest API" width="26px" src="https://github.com/jbozarov/jbozarov/blob/main/icons/rest-api.png" />
 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Node.js" width="26px" src="https://github.com/jbozarov/jbozarov/blob/main/icons/nodejs-2.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
