@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on my Spring Boot Microservices Project.
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- ⚡ Fun fact: I speak 3 languages ( English, Russian)
+- ⚡ Fun fact: I speak 2 languages ( English, Russian)
 
 
 #### Talk with me, I am kinda awesome: [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
